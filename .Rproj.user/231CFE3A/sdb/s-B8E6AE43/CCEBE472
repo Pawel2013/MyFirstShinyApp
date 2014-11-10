@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1415657000038.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CCEBE472",
+    "lastKnownWriteTime" : 21392300099829876,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "galton",
+        "contentUrl" : "content?title=galton&file=a643b7e77ec24e54912d9ac8b0e00809.htm",
+        "displayedObservations" : 928,
+        "displayedVariables" : 2,
+        "totalObservations" : 928,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
